@@ -1,16 +1,36 @@
-# companion_app
+# Breathe
+Cross Platform Full Stack Mental Health App Named 'Breathe' - Works on Android, iOS & Web!
 
-A new Flutter project.
+## Features
+- Google/Guest Authentication
+- Create, Join Mental Health communities.
+- Community Profile (Avatar, Banner, Members)
+- Edit Description and Avatar of community
+- Daily Mental State deducing Surveys
+- Youtube links, Motivational quotes
+- Stress Level Deduction
+- Personal Growth services
+- Connect with doctors
+- Medicines,Food,Water Reminder
 
-## Getting Started
+## Installation
+After cloning this repository, migrate to ```companion app``` folder. Then, follow the following steps:
+- Create Firebase Project
+- Enable Authentication (Google Sign In, Guest Sign In)
+- Make Firestore Rules
+- Create Android, iOS & Web Apps
+- Use FlutterFire CLI to add the Firebase Project to this app.
+  Then run the following commands to run your app:
+```bash
+  flutter pub get
+  flutter run
+```
 
-This project is a starting point for a Flutter application.
+## Tech Used
+**Server**: Firebase Auth, Firebase Storage, Firebase Firestore
 
-A few resources to get you started if this is your first Flutter project:
+**Client**: Flutter, Riverpod 2.0, Routemaster
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Feedback
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+If you have any feedback, please reach out to me at buyyarapuvishalgaurav123@gmail.com
