@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Firebase project configurations -->
+    <string name="google_app_id">1:980399647437:android:92fa6c91a7a9b8cd</string>
+    <string name="project_id">emt69-13bb4</string>
+    <string name="storage_bucket">emt69-13bb4.appspot.com</string>
+    <string name="location_id">nam5</string>
+    <string name="firebase_url">https://emt69-13bb4-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId">980399647437</string>
+    <string name="api_key">AIzaSyCQpHtSeypzGAsFWvu7JKwCFv19fiqSX8o</string>
+    <!-- App name -->
+    <string name="app_name">emt69</string>
+    <!-- Other project details -->
+    <string name="project_number">980399647437</string>
+    <string name="environment_type">Unspecified</string>
+    <string name="public_facing_name">project-980399647437</string>
+    <string name="support_email">buyyarapuvishalgaurav123@gmail.com</string>
+    <!-- Additional links -->
+    <string name="storage_link">https://console.firebase.google.com/project/emt69-13bb4/storage/emt69-13bb4.appspot.com/files</string>
+    <string name="database_link">https://console.firebase.google.com/project/emt69-13bb4/database/emt69-13bb4-default-rtdb/data</string>
+    <string name="firestore_link">https://console.firebase.google.com/project/emt69-13bb4/firestore/data/~2F</string>
+</resources>
+
+
